@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.input {
+    width: 238px;
+    height: 30px;
+    background-color: white;
+    margin-top: 10px;
+    text-align: center;
+    position: relative;
+    font-family: cursive;
+    border-radius: 12px;
+
+}
+
+#color {
+    background-image: url("https://image.freepik.com/free-vector/halftone-background_1053-327.jpg");
+    border-width: 5px;
+    border-style: solid;
+    height: 583px;
+    width: 400px;
+}
+
+#botton {
+    width: 85px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.849);
+    margin-top: 0px;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 5px;
+    left: 170px;
+    position: absolute;
+    font-family: cursive;
+
+}
+
+.form{
+    font-size: 30px;
+}
